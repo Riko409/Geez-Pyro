@@ -1,18 +1,12 @@
-<img src="https://telegra.ph/file/c78bb1efdeed38ee16eb2.png">
-
-<p align="center"> 🔥 𝗚𝗲𝗲𝘇 𝗣𝘆𝗿𝗼 🔥 </p>
+<p align="center"> 🔥 JACKPYRO 🔥 </p>
 
 - UBOT BIASA GAK ADA YG ISTIMEWA
-
-<p align="center">
-    <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
 ## Requirements 
 
 - PyroGram Session
-- Host (VPS atau HEROKU)
-- Python 3.9+ or 3.10
-- [Mongo Db](https://youtu.be/mnvjt_a5JYA)
+- Host (VPS atau TERMUX)
+- Python 3.9+ or 3.1
 - OTAK
 
 
@@ -24,7 +18,7 @@
 
 
 
-## Deploy Geez-Pyro on VPS
+## Deploy JACK-Pyro on VPS
 ```console
  $ git clone https://github.com/hitokizzy/Geez-Pyro
  $ cd Geez-Pyro
@@ -33,7 +27,7 @@
 ```
 
 
-## Deploy Geez-Pyro on Heroku
+## Deploy JACK-Pyro on Heroku
 <h3 align="center">Click The Button</h3>
 <a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fhitokizzy%2FGeez-Pyro&template=https%3A%2F%2Fgithub.com%2Fhitokizzy%2FGeez-Pyro"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
 </div>
@@ -70,5 +64,5 @@ DAN SEMUA INI GRATIS !!!!!
 
 <p align="center">𝐒𝐮𝐩𝐩𝐨𝐫𝐭 / 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ----> </p>
 
-<p align="center"><a href="https://t.me/GeezRam"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
-<p align="center"><a href="https://t.me/UserbotCh"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/swaggangs"><img 
+<p align="center"><a href="https://t.me/UserbotCh"><img 
